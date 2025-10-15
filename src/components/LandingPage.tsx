@@ -6,6 +6,7 @@ import { Menu, Rocket, X } from 'lucide-react'
 import { Button } from '../components/ui/button'
 // import Image from 'next/image'
 import Safari from '../assets/safari.jpeg'
+
 import FAQ from './FAQ'
 
 import Footer from './Footer'
