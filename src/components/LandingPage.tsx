@@ -85,6 +85,8 @@ export default function HeroSection() {
                                 <p className="mx-auto mt-8 hidden max-w-2xl text-wrap text-lg sm:block">Safari travels across kenya made easy.</p>
                                 <p className="mx-auto mt-6 max-w-2xl text-wrap sm:hidden">safari yetu</p>
 
+                                {/* <p className="mx-auto mt-8 hidden max-w-2xl text-wrap text-lg sm:block"> Explore Kenya with ease — from the wild beauty of the Mara to the calm shores of Diani. Kuja Twende makes every journey simple, affordable, and unforgettable.</p> */}
+
                                 <div className="mt-8">
                                     <Button
                                         size="lg"
